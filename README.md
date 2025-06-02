@@ -13,9 +13,9 @@ Topik yang dipilih haruslah sesuai dengan etika dan norma, serta tidak boleh men
 
 Berdasarkan cakupan proyek tersebut, Saya membutuhkan beberapa resource dan tool, yaitu:
 
-data review aplikasi pluang dari google play store [(ulasan aplikasi pluang)](ulasan_aplikasi_pluang.csv);
-bahasa pemrograman Python sebagai tool utama kita dalam proyek ini; serta
-berbagai library pendukung untuk pengolahan data dan pengembangan model machine learning.
+- Data review aplikasi pluang dari google play store [(ulasan aplikasi pluang)](ulasan_aplikasi_pluang.csv);
+- Bahasa pemrograman Python sebagai tool utama kita dalam proyek ini; serta
+- Berbagai library pendukung untuk pengolahan data dan pengembangan model machine learning.
 
 ## Setup Environment - Anaconda
 
